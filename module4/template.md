@@ -139,3 +139,5 @@ Could you do a new topic, with the same "style"?
 ## Data
 
 Where could you search for data about your topic?
+
+A more advcanced and also maybe more precise version of the above project would be: To evaluate the score after move 15 and 25 and to take into account both scores and the relative change between the two. 
