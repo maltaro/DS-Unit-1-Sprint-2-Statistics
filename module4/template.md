@@ -12,6 +12,7 @@ working on for your project week.
 
 What do you care about?
 
+chess
 
 What do you know about?
 
@@ -68,6 +69,11 @@ Could you do a new topic, with the same "style"?
 ## Data
 
 Where could you search for data about your topic?
+
+there are big datasets of chessgames online. My idea is to examine the center 16 squares of chessgames after move 15 for example. 
+I want to design code that will evaluate what control each player has over these 16 central squares and assign it a value. With that value and the info which player has won I could train a machine learning model to predict which -  given the position of the board at move 15 - player is going to win.
+
+I actually dont know if this model would yield good predictions. But even finding out that this does not serve as a good predictor would be interesting. 
 
 ---
 
